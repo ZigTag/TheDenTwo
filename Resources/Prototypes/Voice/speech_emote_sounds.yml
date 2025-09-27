@@ -485,7 +485,7 @@
     Sigh:
       collection: MaleSigh
     Scream:
-      collection: VulpkaninScreams
+      collection: MaleScreams # Misfit - VulpkaninScreams to MaleScreams
     Growl:
       collection: VulpkaninGrowls
     Snarl:
@@ -517,7 +517,7 @@
     Sigh:
       collection: FemaleSigh
     Scream:
-      collection: VulpkaninScreams
+      collection: FemaleScreams # Misfit - VulpkaninScreams to MaleScreams
     Growl:
       collection: VulpkaninGrowls
     Snarl:
