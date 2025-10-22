@@ -41,12 +41,6 @@ marking-VulpEarShock-shock = Shock ears (Base)
 marking-VulpEarShock-shock-inner = Shock ears (Inner)
 marking-VulpEarShock = Vulpkanin Shock
 
-# Begin Misfit ear additions
-marking-VulpEarWolf-wolf = Wolf ears (Base)
-marking-VulpEarWolf-wolf-inner = Wolf ears (Inner)
-marking-VulpEarWolf = Wolf Ears
-
-
 # Snout
 
 marking-VulpSnout-snout = Snout
