@@ -41,6 +41,7 @@ marking-VulpEarShock-shock = Shock ears (Base)
 marking-VulpEarShock-shock-inner = Shock ears (Inner)
 marking-VulpEarShock = Vulpkanin Shock
 
+
 # Snout
 
 marking-VulpSnout-snout = Snout
@@ -118,6 +119,7 @@ marking-VulpTailVulp = Vulpkanin
 marking-VulpTailVulpFade-vulp = Vulpkanin tail (Base)
 marking-VulpTailVulpFade-vulp-fade = Vulpkanin tail (Fade)
 marking-VulpTailVulpFade = Vulpkanin (Fade)
+
 
 # Chest
 
